@@ -1,0 +1,30 @@
+@media (max-width: 768px) and (min-width:480px) {
+    .info-container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .card-subtitle {
+        font-size: 1.2rem;
+        font-weight: 650;
+        margin: 1rem 0;
+    }
+    
+    .card-subtitle2 {
+        font-size: 0.5rem;
+        font-weight: 500;
+        padding-top: 20px;
+    }
+
+    .info {
+        text-align: center;
+    }
+}
+
+@media (max-width: 550px) and (min-width: 949px) and (orientation: portrait), and (max-width: 400px) and (min-width: 549px) {
+
+}
+
+@media (min-width: 350px) and (max-width: 399px) {
+
+}

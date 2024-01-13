@@ -9,4 +9,4 @@ Hero Section: The hero section showcases a visually appealing banner and highlig
 Content Sections: Various sections display different categories, such as movies, TV shows, and documentaries, with associated thumbnails and descriptions.
 Interactive Elements: The clone includes interactive elements, such as hover effects on thumbnails, buttons, and dropdowns, to enhance user interactivity.
 
-### This project was inspired by the Netflix landing page and serves as a learning exercise in HTML and CSS.
+##### This project was inspired by the Netflix landing page and serves as a learning exercise in HTML and CSS.
